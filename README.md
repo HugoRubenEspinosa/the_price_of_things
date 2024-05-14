@@ -1,1 +1,2 @@
-# the_price_of_things
+# The Price Of Things
+The app that finds the prices of things
